@@ -20,6 +20,7 @@ name is available.
 
     Juan Linietsky (reduz)
     Ariel Manzur (punto-)
+    test comm
 
 ## Lead Developer
 
